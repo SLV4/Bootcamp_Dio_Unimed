@@ -29,3 +29,5 @@
 ### Estruturas Condicionais e de Repetição em Python
 
 * **Identação e blocos** - aula sobre o conceito de Identação e Blocos, para delimitar os comandos em blocos;
+
+* **Estruturas condicionais** - aula sobre estruturas condicionais, e sobre como e quando aplicar em um programa. Serão abordados conceitos de "if aninhado" e condicionais ternárias;

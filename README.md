@@ -8,6 +8,6 @@ e desafios de código ao longo das trilhas.
 * Python 
 * SQL
 * AWS (conceitos de Cloud)
-* R (com foco em Machine Learning
+* R (com foco em Machine Learning)
 * Conceitos de Machine Learning
 

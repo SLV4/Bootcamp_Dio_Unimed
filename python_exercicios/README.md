@@ -1,6 +1,8 @@
 # Exercícios básicos de python
 
-Listagem dos exercícios alocados no repositório:
+## Listagem dos exercícios alocados no repositório (por módulo)
+
+### Conhecendo a Linguagem de Programação Python
 
 * **Primeiro programa** - primeiro contato com a programação, linha a linha, printando o "Hello World", com breve explicação sobre tipos de códigos;
 
@@ -12,6 +14,8 @@ Listagem dos exercícios alocados no repositório:
 
 * **Funções aritméticas** - aula sobre funções aritméticas básicas: soma, subtração, módulo, etc., exibindo o resultado no terminal com a função _print_;
 
+### Tipos de Operadores em Python 
+
 * **Operadores de comparação** - aula sobre como aplicar os operadores de comparação com retorno no terminal, com exemplo de comparação simples de valores em igualdade;
 
 * **Operadores de atribuição** - aula sobre como utilizar os operadores de atribuição para alterar ou sobrescrever o valor de uma variável, utilizando também a inclusão de operadores aritméticos para exibir o valor na tela acrescido/decrescido de outros valores, por exemplo;
@@ -21,3 +25,7 @@ Listagem dos exercícios alocados no repositório:
 * **Operadores de identidade** - aula sobre a definição e utilização de operadores de identidade, utilizando exemplos simples.
 
 * **Operadores de associação** - aula sobre como e quando utilizar os operadores de associação, utilizando exemplos práticos.
+
+### Estruturas Condicionais e de Repetição em Python
+
+*

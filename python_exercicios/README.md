@@ -16,4 +16,8 @@ Listagem dos exercícios alocados no repositório:
 
 * **Operadores de atribuição** - aula sobre como utilizar os operadores de atribuição para alterar ou sobrescrever o valor de uma variável, utilizando também a inclusão de operadores aritméticos para exibir o valor na tela acrescido/decrescido de outros valores, por exemplo;
 
-**Operadores lógicos** - aula sobre a utilização dos operadores lógicos _and_ e _or_, com objetivo de retornar valores verdadeiro/falso na tela. Também foi abordada a função _not_"inverso";
+* **Operadores lógicos** - aula sobre a utilização dos operadores lógicos _and_ e _or_, com objetivo de retornar valores verdadeiro/falso na tela. Também foi abordada a função _not_"inverso";
+
+* **Operadores de identidade** - aula sobre a definição e utilização de operadores de identidade, utilizando exemplos simples.
+
+* **Operadores de associação** - aula sobre como e quando utilizar os operadores de associação, utilizando exemplos práticos.

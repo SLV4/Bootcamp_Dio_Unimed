@@ -14,4 +14,6 @@ Listagem dos exercícios alocados no repositório:
 
 * **Operadores de comparação** - aula sobre como aplicar os operadores de comparação com retorno no terminal, com exemplo de comparação simples de valores em igualdade;
 
-* **Operadores de atribuição** - aula sobre como utilizar os operadores de atribuição para alterar ou sobrescrever o valor de uma variável, utilizando também a inclusão de operadores aritméticos para exibir o valor na tela acrescido/decrescido de outros valores, por exemplo. 
+* **Operadores de atribuição** - aula sobre como utilizar os operadores de atribuição para alterar ou sobrescrever o valor de uma variável, utilizando também a inclusão de operadores aritméticos para exibir o valor na tela acrescido/decrescido de outros valores, por exemplo;
+
+**Operadores lógicos** - aula sobre a utilização dos operadores lógicos _and_ e _or_, com objetivo de retornar valores verdadeiro/falso na tela. Também foi abordada a função _not_"inverso";

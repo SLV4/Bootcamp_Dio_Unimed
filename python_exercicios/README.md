@@ -9,3 +9,7 @@ Listagem dos exercícios alocados no repositório:
 
 * **Convertendo tipos de dados** - aula sobre como são impressos os diferentes tipos de dados que geralmente são trabalhados em python, exibindo na tela as diferenças entre string, boleanos e inteiros; 
 
+* **Função _input_ e função _print** - aula sobre como gerar interação com o usuário através da função de entrada de dados _input_ e sobre como exibir os dados na tela, através da função _print_;
+
+
+

@@ -14,7 +14,7 @@
 
 * **Funções aritméticas** - aula sobre funções aritméticas básicas: soma, subtração, módulo, etc., exibindo o resultado no terminal com a função _print_;
 
-### Tipos de Operadores em Python 
+### Tipos de Operadores em Python
 
 * **Operadores de comparação** - aula sobre como aplicar os operadores de comparação com retorno no terminal, com exemplo de comparação simples de valores em igualdade;
 
@@ -24,8 +24,8 @@
 
 * **Operadores de identidade** - aula sobre a definição e utilização de operadores de identidade, utilizando exemplos simples.
 
-* **Operadores de associação** - aula sobre como e quando utilizar os operadores de associação, utilizando exemplos práticos.
+* **Operadores de associação** - aula sobre como e quando utilizar os operadores de associação, utilizando exemplos práticos;
 
 ### Estruturas Condicionais e de Repetição em Python
 
-*
+* **Identação e blocos** - aula sobre o conceito de Identação e Blocos, para delimitar os comandos em blocos;

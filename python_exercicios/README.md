@@ -11,5 +11,6 @@ Listagem dos exercícios alocados no repositório:
 
 * **Função _input_ e função _print** - aula sobre como gerar interação com o usuário através da função de entrada de dados _input_ e sobre como exibir os dados na tela, através da função _print_;
 
+* **Funções aritméticas** - aula sobre funções aritméticas básicas: soma, subtração, módulo, etc., exibindo o resultado no terminal com a função print. 
 
 

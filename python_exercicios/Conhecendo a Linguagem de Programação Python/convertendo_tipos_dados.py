@@ -8,5 +8,5 @@ valor_str = str(valor)
 print (type(valor))
 print(type(valor_str))
 
-print(10 / 2)
+print(11 / 2)
 print(10 // 2)

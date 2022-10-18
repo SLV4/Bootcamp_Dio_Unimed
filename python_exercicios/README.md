@@ -33,3 +33,9 @@
 * **Estruturas condicionais** - aula sobre estruturas condicionais, e sobre como e quando aplicar em um programa. Serão abordados conceitos de "if aninhado" e condicionais ternárias;
 
 * **Estruturas de repetição** - aula sobre como utilizar as estruturas de repetição em um código em python. Foram abordados os comandos _for_,_while_, _break_, e o _continue_;
+
+### Dominando Strings e Fatiamento
+
+* **Conhecendo métodos úteis da classe string** - aula abordando diferentes comandos comumente utilizados em strings.
+
+* **Interpolação de variáveis** - 

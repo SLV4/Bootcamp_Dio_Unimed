@@ -39,3 +39,5 @@
 * **Conhecendo métodos úteis da classe string** - aula abordando diferentes comandos comumente utilizados em strings.
 
 * **Interpolação de variáveis** - aula mostrando as diferentes aplicações dos comandos de interpolação de dados, dando uma breve explicação sobre as diferenças e praticidades dos principais comandos de interpolação de strings presentes em python atualmente. 
+
+* **Fatiamento de Strings / Manipulação de Strings com Python** - aulas sobre como formatar e utilizar as ferramentas de fatiamento de strings, e como manipular as strings de modo a otimizar o processo de escrita em Python. 

@@ -31,3 +31,5 @@
 * **Identação e blocos** - aula sobre o conceito de Identação e Blocos, para delimitar os comandos em blocos;
 
 * **Estruturas condicionais** - aula sobre estruturas condicionais, e sobre como e quando aplicar em um programa. Serão abordados conceitos de "if aninhado" e condicionais ternárias;
+
+* **Estruturas de repetição** - aula sobre como utilizar as estruturas de repetição em um código em python. Foram abordados os comandos _for_,_while_, _break_, e o _continue_;

@@ -1,6 +1,7 @@
 #Desafio de código submetido:
 entrada = input().split()
 
+
 distancia = int(entrada[0])
 diametro1 = int(entrada[1])
 diametro2 = int(entrada[2])

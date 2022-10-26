@@ -6,3 +6,6 @@ diametro2 = int(input("Informe o diametro do segundo Palantír: "))
 ICM = ((distancia /(diametro1 + diametro2)))
 
 print (f"O valor do ICM encontrado entre as Palantír é: {ICM: .2f}") #exibir valor com duas casas decimais
+
+
+#paulo é meu amigo
